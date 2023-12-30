@@ -1,0 +1,143 @@
+{
+  "data": [
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "RentelyPortfolio",
+      "createdAt": "12/2023",
+      "description": "My personal porfolio. Feel free to post any ideas :-)",
+      "isFork": true,
+      "url": "https://github.com/rennie-bee/RentelyPortfolio",
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "GraphQL",
+          "iconifyClass": "logos-graphql"
+        },
+        {
+          "name": "Apollo Client",
+          "iconifyClass": "logos-apollostack"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNjkwNzUwMjM=",
+      "name": "RideBuddy",
+      "createdAt": "12/2023",
+      "description": "A flask-based web app intelligent searching car-pooling mates for university faculty and students, winning top grade in INRIX Hackthon 2023 at Seattle.",
+      "isFork": false,
+      "url": "https://github.com/weifanwu/INRIX-RideBuddy",
+      "languages": [
+        {
+          "name": "Flask",
+          "iconifyClass": "logos-flask"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "MySQL",
+          "iconifyClass": "logos-mysql"
+        },
+        {
+          "name": "AWS",
+          "iconifyClass": "logos-aws"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkxODIxMjk3NTQ=",
+      "name": "StartupSage",
+      "createdAt": "11/2022",
+      "description": "Predicted prospects of 300k+ startups using analytics including data cleaning, feature selection, and machine learning. Adopted Scikit-learn library to train and ensemble models such as decision tree, KNN, random forest, and XGBoost. Finetuned model parameters and fragments to decrease average error rate.",
+      "isFork": false,
+      "url": "https://github.com/rennie-bee/comp3010j-machine-learning",
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Jupyter",
+          "iconifyClass": "logos-jupyter"
+        },
+        {
+          "name": "Matplotlib",
+          "iconifyClass": "logos-matplotlib"
+        },
+        {
+          "name": "Seaborn",
+          "iconifyClass": "logos-seaborn-icon"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNzM1MTI1NTE=",
+      "name": "Scalable Graph Learning (SGL)",
+      "createdAt": "09/2022",
+      "description": "SGL is a Graph Neural Network (GNN) toolkit targeting scalable graph learning, which supports deep graph learning on extremely large datasets.",
+      "isFork": false,
+      "url": "https://github.com/PKU-DAIR/SGL",
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "PyTorch",
+          "iconifyClass": "logos-pytorch"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkxNTU5NTE3NTk=",
+      "name": "TennisArena",
+      "createdAt": "12/2021",
+      "description": "An interactive project built with OpenGL, allowing users to manipulate athletes to move and play tennis.",
+      "isFork": false,
+      "url": "https://github.com/rennie-bee/comp3033j-computer-graphics",
+      "languages": [
+        {
+          "name": "Java",
+          "iconifyClass": "logos-java"
+        },
+        {
+          "name": "OpenGL",
+          "iconifyClass": "logos-opengl"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyMDIxNDc4ODA=",
+      "name": "ElderCare",
+      "createdAt": "12/2021",
+      "description": "An android project implemented with Java and Android Studio, covering useful functions like map navigation, weather forecast, and To-do list for the elder generation.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Java",
+          "iconifyClass": "logos-java"
+        },
+        {
+          "name": "Gradle",
+          "iconifyClass": "logos-gradle"
+        },
+        {
+          "name": "SQLite",
+          "iconifyClass": "logos-sqlite"
+        },
+        {
+          "name": "Baidu Map",
+          "iconifyClass": "arcticons:baidu-map"
+        }
+      ]
+    }
+  ]
+}
